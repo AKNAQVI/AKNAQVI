@@ -42,7 +42,7 @@ Built using **Next.js**, **FastAPI**, **MongoDB**, and **Google Gemini API** wit
 
 **Tech:** Python, FastAPI, Next.js, MongoDB, Gemini API
 
----
+***
 
 ### 📲 WhatsApp Restaurant Chatbot
 AI-powered WhatsApp bot for order placement, modification, and tracking.  
@@ -50,7 +50,7 @@ Integrated with **Google Sheets API** for real-time menu and orders.
 
 **Tech:** Node.js, Express.js, Google Sheets API, UltraMsg
 
----
+***
 
 ### 🧑‍💼 Job Filter Chatbot
 Conversational AI assistant for candidate screening and hiring support.  
@@ -59,12 +59,6 @@ Powered by **OpenAI API** with multilingual and voice features.
 **Tech:** Python, Streamlit, OpenAI API
 
 ---
-
-### 🎬 Movie Statement Analyzer (LSTM)
-Deep learning project for trend analysis using sequential data and LSTM models.
-
-**Tech:** Python, TensorFlow/Keras, Pandas, NumPy
-
 
 ## 🤝 Let's Connect!
 
