@@ -37,46 +37,33 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 ## 🌟 Featured Projects
 
 ### 🤖 AI-Powered CafeBot (Web)
-**Intelligent AI food ordering assistant**
+AI-based food ordering assistant with a virtual waiter experience.  
+Built using **Next.js**, **FastAPI**, **MongoDB**, and **Google Gemini API** with automated receipts.
 
-- AI chatbot acting as a virtual waiter using **Google Gemini API**
-- Full-stack application with **Next.js (frontend)** and **FastAPI (backend)**
-- Real-time menu, order, and cart management via **MongoDB Atlas**
-- Auto-generated receipts with itemized billing
-
-**Tech Stack:** Python, FastAPI, Next.js, MongoDB, Gemini API, Railway
+**Tech:** Python, FastAPI, Next.js, MongoDB, Gemini API
 
 ---
 
 ### 📲 WhatsApp Restaurant Chatbot
-**AI-powered food ordering system on WhatsApp**
+AI-powered WhatsApp bot for order placement, modification, and tracking.  
+Integrated with **Google Sheets API** for real-time menu and orders.
 
-- Automated order placement, modification, and tracking
-- Real-time menu and order management using **Google Sheets API**
-- Multi-item selection with time-limited edits and structured receipts
-
-**Tech Stack:** Node.js, Express.js, Google Sheets API, UltraMsg, Railway
+**Tech:** Node.js, Express.js, Google Sheets API, UltraMsg
 
 ---
 
-### 🧑‍💼 Job Filter Chatbot (AI Hiring Assistant)
-**Conversational AI for candidate screening**
+### 🧑‍💼 Job Filter Chatbot
+Conversational AI assistant for candidate screening and hiring support.  
+Powered by **OpenAI API** with multilingual and voice features.
 
-- Simulates hiring conversations and answers applicant queries
-- Integrated **OpenAI API** for natural language understanding
-- Multilingual support with real-time voice output
-
-**Tech Stack:** Python, Streamlit, OpenAI API, gTTS, Google Translate
+**Tech:** Python, Streamlit, OpenAI API
 
 ---
 
 ### 🎬 Movie Statement Analyzer (LSTM)
-**Deep learning–based trend analysis system**
+Deep learning project for trend analysis using sequential data and LSTM models.
 
-- LSTM model for sequential data analysis and trend forecasting
-- Data preprocessing and visualization for clear insights
-
-**Tech Stack:** Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib
+**Tech:** Python, TensorFlow/Keras, Pandas, NumPy
 
 
 ## 🤝 Let's Connect!
