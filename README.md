@@ -29,9 +29,6 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
 ---
 
 ## 🌟 Featured Projects
@@ -78,14 +75,6 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 
 **Tech Stack:** Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib
 
-
----
-
-## 📊 GitHub Stats
-
-![Ali Kamal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AKNAQVI&show_icons=true&theme=radical)
-
----
 
 ## 🤝 Let's Connect!
 
