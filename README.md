@@ -68,7 +68,7 @@ Deep learning project for trend analysis using sequential data and LSTM models.
 ## 🤝 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-kamal-15b391314/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:syedalikamal5@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-white?style=flat-square&logo=gmail)](mailto:syedalikamal5@gmail.com)
 
 ---
 
