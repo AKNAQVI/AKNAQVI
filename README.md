@@ -22,6 +22,7 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A5ACD?style=flat-square)](https://www.deeplearning.ai)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)](https://keras.io)
+[![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-8A2BE2?style=flat-square)](https://en.wikipedia.org/wiki/Large_language_model)
 ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
 [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io)
