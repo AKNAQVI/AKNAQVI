@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Kamal 
 
-🚀 **Developer** | 🌍 **Based in Pakistan** | 💡 **Passionate about building impactful solutions**
+ **Developer** |  **Based in Pakistan** |  **Passionate about building impactful solutions**
 
 Welcome to my GitHub profile!  
 I'm an AI-focused developer with hands-on experience in Python, machine learning, and chatbot development.  
@@ -37,7 +37,7 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 
 ## 🌟 Featured Projects
 
-### 🤖 AI-Powered CafeBot (Web)
+### - AI-Powered CafeBot (Web)
 AI-based food ordering assistant with a virtual waiter experience.  
 Built using **Next.js**, **FastAPI**, **MongoDB**, and **Google Gemini API** with automated receipts.
 
@@ -45,7 +45,7 @@ Built using **Next.js**, **FastAPI**, **MongoDB**, and **Google Gemini API** wit
 
 ***
 
-### 📲 WhatsApp Restaurant Chatbot
+### - WhatsApp Restaurant Chatbot
 AI-powered WhatsApp bot for order placement, modification, and tracking.  
 Integrated with **Google Sheets API** for real-time menu and orders.
 
@@ -53,7 +53,7 @@ Integrated with **Google Sheets API** for real-time menu and orders.
 
 ***
 
-### 🧑‍💼 Job Filter Chatbot
+### - Job Filter Chatbot
 Conversational AI assistant for candidate screening and hiring support.  
 Powered by **OpenAI API** with multilingual and voice features.
 
