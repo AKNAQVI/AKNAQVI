@@ -32,6 +32,7 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)](https://seaborn.pydata.org)
 [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-339933?style=flat-square&logo=langchain&logoColor=white)](https://www.langchain.com/)
 
 ---
 
