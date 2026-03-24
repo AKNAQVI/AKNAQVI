@@ -72,4 +72,4 @@ Powered by **OpenAI API** with multilingual and voice features.
 
 ## ⚡ Fun Fact
 
-I love turning real-world problems into smart automated solutions 🤖🔥
+I love turning real-world problems into smart automated solutions 
