@@ -8,7 +8,7 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 
 ---
 
-## 🛠️ Technologies & Tools
+##  Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-circle&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
@@ -36,7 +36,7 @@ I enjoy building practical, user-friendly AI solutions and working on real-world
 
 ---
 
-## 🌟 Featured Projects
+##  Featured Projects
 
 ### - AI-Powered CafeBot (Web)
 AI-based food ordering assistant with a virtual waiter experience.  
@@ -62,7 +62,7 @@ Powered by **OpenAI API** with multilingual and voice features.
 
 ---
 
-## 🤝 Let's Connect!
+##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ali-kamal-15b391314/)
 [![Email](https://img.shields.io/badge/Email-white?style=flat-square&logo=gmail)](mailto:syedalikamal5@gmail.com)
